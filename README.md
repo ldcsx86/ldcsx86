@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ldcsx86
 - 👀 I’m interested in design and technology
-- 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning Linux, servers, open-source, computer networks.
 - 💞️ I’m looking to collaborate on paid opportunities related to Linux, design e technology
 - 📫 How to reach me: ldcsx86@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Brazilians invented "Cow Tinder," an app called Boi na Linha, using slick design and geolocation to connect cattle ranchers and buyers instantly, revolutionizing the livestock market with a fun twist!
 
 <!---
